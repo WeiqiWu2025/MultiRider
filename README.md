@@ -1,4 +1,4 @@
-# A Review on Concurrent Backscatter Communication over WiFi: Performance Comparison and Future Perspectives
+# A Survey on Concurrent WiFi Backscatter Communication: Performance Comparison and Future Perspectives
 
 This repository contains the reproduction code for the Paper "Multirider: Enabling multi-tag concurrent ofdm backscatter by taming in-band interference".
 
